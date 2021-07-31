@@ -1,0 +1,135 @@
+body{
+  margin: 0;
+}
+.upper-index{
+  background-image:url("https://static-cse.canva.com/blob/140234/Rainbow-Gradient-Pink-and-Purple-Zoom-Virtual-Background.png");
+  border-top-style: double;
+  border-left-style: double;
+  border-top-color: tomato;
+  border-left-color: slateblue;
+  position: relative;
+}
+.imgdiv{
+  margin-top:70px;
+  margin-left:40px;
+  position: absolute;
+  display: inline;
+}
+.name{
+  margin-top:230px;
+  margin-left: 300px;
+  position: absolute;
+  display: inline;
+}
+.line{
+  border-color: crimson;
+  border-width: 6px;
+  width:90px;
+  border-style:none;
+  border-top-style: dotted;
+
+}
+.lists{
+  position: absolute;
+  margin-top:320px;
+  margin-left: 60px;
+}
+.top{
+margin-top: 50px;
+}
+.skil{
+margin-top:30px;
+position: absolute;
+}
+.main{
+  width:auto;
+  height:830px;
+  margin-top: 700px;
+  position: relative;
+  border-radius:30px;
+  background-color:lightseagreen;
+}
+.one-skill{
+width:450px;
+height:700px;
+background-color:linen;
+position: absolute;
+margin-left: 80px;
+margin-top: 100px;
+border-radius:8px 40px 8px 40px;
+}
+.htfnt{
+  text-indent: 55px;
+  font-size: 20px;
+  line-height:46px;
+  word-spacing:10px;
+  text-align:justify;
+  color:black;
+}
+.html-logo{
+  margin-left:90px;
+}
+.two-skill{
+  background-color:moccasin;
+  width:450px;
+  height:700px;
+  margin-top: 100px;
+  margin-left:680px;
+  position: absolute;
+  border-radius:8px 40px 8px 40px;
+}
+.csfnt{
+  text-indent: 55px;
+  font-size: 20px;
+  line-height:46px;
+  word-spacing:10px;
+  text-align:justify;
+  color:black;
+}
+.css-logo{
+  margin-top:25px;
+  margin-left:120px;
+}
+.three-skill{
+  width:450px;
+  height:700px;
+background-color:pink;
+position: absolute;
+margin-top: 100px;
+margin-left: 1270px;
+border-radius:8px 40px 8px 40px;
+}
+.jsfnt{
+  text-indent: 55px;
+  font-size: 20px;
+  line-height:46px;
+  word-spacing:10px;
+  text-align:justify;
+  color:black;
+}
+.jlog{
+  margin-top:25px;
+  margin-left:120px;
+}
+.last-bfr{
+  height:320px;
+  background-color: blanchedalmond;
+}
+.co{
+  margin-top:0;
+  padding-top: 70px;
+}
+.phead{
+  margin-top: 0px;
+  padding-top: 60px;
+}
+.prct{
+  height:270px ;
+  background-color:#ffc0cb;
+}
+.declr{
+  text-indent: 50px;
+}
+a{
+  margin-left: 20px;
+}
